@@ -12,8 +12,8 @@
 		<!-- small box -->
 		<div class="small-box bg-primary">
 			<div class="inner">
-				<p>Jumlah Pegawai</p>
-				<h3>3</h3>
+				<p>Jumlah karyawan</p>
+				<h3>4</h3>
 			</div>
 			<div class="icon">
 				<i class="ion ion-person-add"></i>
@@ -27,7 +27,7 @@
 		<div class="small-box bg-warning">
 			<div class="inner">
 				<p>Pengguna Sistem</p>
-				<h3>2</h3>
+				<h3>1</h3>
 			</div>
 			<div class="icon">
 				<i class="ion ion-android-happy"></i>
